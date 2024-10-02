@@ -25,12 +25,3 @@
 
 # Side Quest - 
 
-
-
-
-
-
-
-
-1. Jobsøgning
-2. 
