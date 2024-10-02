@@ -24,14 +24,12 @@ Objective: Move in with Julia and progess on my career path.
    - [ ] Find an apartment/House in London area. With deposit of 25.000£.
 6. TBC - to be continued 
 
- 
 <br/>
 <br/>
- 
 
 # Side Quest - MatematikGuiden?
 
-
+<br/>
 
 # Side Quest - TMRW
 
