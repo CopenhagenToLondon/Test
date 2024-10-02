@@ -21,7 +21,10 @@
    - [ ] Find an apartment/House in London area. With deposit of 25.000£.
 6. TBC - to be continued
 
-# Side Quest - 
+# Side Quest - MatematikGuiden?
 
-# Side Quest - 
+
+
+# Side Quest - TMRW
+
 
