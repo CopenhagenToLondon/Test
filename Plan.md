@@ -1,4 +1,6 @@
 # Main Quest
+Objective: Move in with Julia and progess on my career path.
+
 1. UK Visa
    - [x] Payments 6000£.
    - [x] Biometrics and documentation.
