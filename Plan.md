@@ -6,10 +6,14 @@
    - [ ] Proper documentation sent.
    - [ ] Visa Approved achieved.
 3. Job & Opsparing
-4. Move to London
-5. Job & Opsapring
-6. Apartment
-7. TBC - to be continued
+   - [ ] Full time employment
+   - [ ] Career relevant full time employment
+         
+   - [ ] Savings of 40.000dkk/5.000£
+5. Move to London
+6. Job & Opsapring
+7. Apartment
+8. TBC - to be continued
 
 # Side Quest - 
 
