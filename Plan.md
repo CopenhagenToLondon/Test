@@ -58,8 +58,9 @@ Objective: To earn money by running a successful algorithmic investment fund.
 
 <br/>
 
-# Side Quest - MatematikGuiden?
+# Side Quest - MatematikGuiden/Knowledgebase
 Objective: Summarize math levels from 1. grade to university level. In such a way that it'll be useful for graduation.
+
 
 
 <br/>
