@@ -5,21 +5,21 @@
    - [ ] Decision on failed documentation received.
    - [ ] Proper documentation sent.
    - [ ] Visa Approved achieved.
-3. Job & Opsparing
+2. Job & Opsparing
    - [ ] Full time employment.
    - [ ] Career relevant full time employment.  
    - [ ] Savings of 40.000dkk/5.000£.
-5. Move to London
+3. Move to London
    - [ ] Choose what to bring.
    - [ ] pack, ship and storage.
 
-7. Job & Opsapring
+4. Job & Opsapring
    - [ ] Find a job in London.
    - [ ] Find a career in London.
    - [ ] Save for a downpayment on an apartment/House. 25.000£
-9. Apartment
+5. Apartment
    - [ ] Find an apartment/House in London area. With deposit of 25.000£.
-11. TBC - to be continued
+6. TBC - to be continued
 
 # Side Quest - 
 
