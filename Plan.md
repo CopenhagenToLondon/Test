@@ -25,12 +25,42 @@ Objective: Move in with Julia and progess on my career path.
 6. TBC - to be continued 
 
 <br/>
+# Side Quest - TMRW
+Objective: To earn money by running a successful algorithmic investment fund.
+1. Successful Algorithm.
+   - [x] Backtest engine.
+   - [x] Algorithm version 1.
+      - [ ] Markov model Research.
+      - [ ] Hidden Markov model Research.
+      - [ ] Mean reversion Research.
+   - [ ] Research.
+   - [ ] Algorithm version 2.
+      - [ ] Convergence theorem research.
+2. Clients/Customers.
+   - [ ] Build list potential customer for initial offering.
+   - [ ] Perform initial private offering. 
+   - [ ] Contact various funds to inquire about opportunity for startup funding.
+      - [ ] Test
+3. Company setup.
+   - [ ] Build governance structure.
+   - [ ] Setup company with respective authorities.
+   - [ ] Identify employee roles.
+   - [ ] Bank accounts.
+4. Compliance.
+   - [ ] ...
+5. Resources.
+   - [ ] Database setup
+   - [ ] API setup
+   - [ ] Trade setup
+5. TBC - to be continued 
+
 <br/>
 
 # Side Quest - MatematikGuiden?
+Objective: Summarize math levels from 1. grade to university level. In such a way that it'll be useful for graduation.
+
 
 <br/>
 
-# Side Quest - TMRW
 
 
