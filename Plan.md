@@ -25,7 +25,9 @@ Objective: Move in with Julia and progess on my career path.
 6. TBC - to be continued 
 
 <br/>
+
 # Side Quest - TMRW
+
 Objective: To earn money by running a successful algorithmic investment fund.
 1. Successful Algorithm.
    - [x] Backtest engine.
