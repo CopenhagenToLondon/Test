@@ -22,7 +22,7 @@ Objective: Move in with Julia and progess on my career path.
    - [ ] Save for a downpayment on an apartment/House. 25.000£
 5. Apartment
    - [ ] Find an apartment/House in London area. With deposit of 25.000£.
-6. TBC - to be continued\
+6. TBC - to be continued 
 
  
  \
