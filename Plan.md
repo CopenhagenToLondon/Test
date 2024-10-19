@@ -24,7 +24,10 @@ Objective: Move in with Julia and progess on my career path.
 2. Job & Savings
    - [x] Full time employment. - cleaning of train stations
    - [ ] Career relevant full time employment.
-         - [ ] Data analyst, data engineer, software developer, etc.
+      - [ ] Data analyst, data engineer, software developer, etc.
+         - [ ] Career relevant CV, courses, projects, website etc. 
+      - [ ] Apply UK jobs
+      - [ ] apply DK jobs
    - [ ] Savings of 40.000dkk/5.000£.
       - [ ] x out of 40.000dkk invested into saxo for safekeeping
 3. Move to London
