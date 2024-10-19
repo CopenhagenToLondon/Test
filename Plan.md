@@ -102,21 +102,48 @@ Planned progress through development of algorithm and business
       - [ ] Test of implementation for various time horizons
       - [ ] Implementation test
 2. Clients/Customers.
-   - [ ] Build list potential customer for initial offering.
+   - [ ] Construct list of potential first customers for initial offering.
    - [ ] Perform initial private offering. 
    - [ ] Contact various funds to inquire about opportunity for startup funding.
-      - [ ] Test
+      - [ ] Funding for an office
+      - [ ] Funding for local server hub
+      - [ ] Funding for access to markets, Crypto, Options, Equity, Commodities.
 3. Company setup.
    - [ ] Build governance structure.
+      - [ ] Partners at the top
+      - [ ] Heads of xyz
+      - [ ] Middle management
+      - [ ] Bottom tier
    - [ ] Setup company with respective authorities.
    - [ ] Identify employee roles.
    - [ ] Bank accounts.
+      - [ ] Investment accounts in Denmark, Germany, France, United kingdom, United states
+      - [ ] Company bank accounts in United Kingdom and United States. Denmark if we must.
 4. Compliance.
    - [ ] ...
 5. Resources.
-   - [ ] Database setup
-   - [ ] API setup
-   - [ ] Trade setup
+   - [ ] Physical Setup
+      - [ ] Office
+      - [ ] Computers, at least 3 for work purposes.
+      - [ ] Chairs, at least 3 for work purposes.
+      - [ ] Tables, at least 3 for work purposes.
+      - [ ] Server computers to run website, company server space and algorithms
+   - [ ] Digital Setup
+      - [ ] Database setup
+         - [ ] SQL database, local, for maneuverbility
+         - [ ] Historical database
+         - [ ] Trading database, to log trades and signals 
+      - [ ] API setup
+         - [ ] strategies to run
+         - [ ] data extraction load and more
+         - [ ] Functionalities such as Moving averages, RSI etc. 
+      - [ ] Trade setup
+         - [ ] Pinging buy/sell/short orders with Binance
+         - [ ] Pinging buy/sell/short orders with Robinhood
+         - [ ] orders with ... exchanges.
+      - [ ] Analysis setup
+         - [ ] Unknown so far
+
 5. TBC - to be continued 
 
 <br/>
