@@ -8,6 +8,9 @@ ESFJ, ISFJ, ISTJ, ... Are all the "front line ants", INTJ, INFJ, ... Are all the
 Societies are competitive. There's competition within a society, for positions. <br>
 Women go by beauty, sociability then skill. Men go by skill, sociability then beauty.
 
+The goal of each X(t)_i is to conserve as much energy as possible, the goal for each society is to conserve as much energy as possible within the society. <br>
+If one of the X(t)_i's within the society has a conservation goal, that goes against the general society conservation goal. The society will try to <br>
+change this.
 
 
 # Main Quest
