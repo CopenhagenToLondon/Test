@@ -60,20 +60,33 @@ Learned Axioms.
 
 1. Successful Algorithm.
    - [x] Backtest Engine.
+
    - [x] Algorithm Phase 1. - A simplistic test of the possibility of algorithmic trading.
+
    - [ ] Research Phase 1
       - [ ] Markov Model Research
          - [ ] Run conditional probabilities on different states of previous days returns
       - [ ] Hidden Markov State Research
-         - [ ] Run the hidden markov model on different 
+         - [ ] Run the hidden markov model on different assets etc. Find commonalities.
       - [ ] Mean Reversion Research
+         - [ ] Find time horizons, methods and conditions that benefit Mean Reversion strategies. MACD, MA5,20,40? etc. 
       - [ ] Convergence Theorem Research
+         - [ ] does convergence of highs and lows benefit in detecting momentum/trends? does divergence benefit in detecting momentum/trends? 
       - [ ] Linear Regression Research
+         - [ ] What data will be useful to use here?
+         - [ ] Are we looking at R2 scores?
+         - [ ] Are we looking for outliers?
+         - [ ] Will the \alpha of the regression be useful? 
       - [ ] Standard deviation Research
+         - [ ] Is the base \sigma useful for anything other than volatility estimates?
+         - [ ] Will there always be a reversive effect after a 2, 2.5 or 3 \sigma outlier?
+         - [ ] Is there a connection between low sigma, convergence and a directional shift?
+   
    - [ ] Algorithm Phase 2.
       - [ ] Idea generation for Algorithm V2
       - [ ] Test of implementation for various time horizons
       - [ ] Implementation test
+        
    - [ ] Research Phase 2.
       - [ ] Mean field Research
       - [ ] Mean Reversion Research
