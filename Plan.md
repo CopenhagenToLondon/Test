@@ -52,15 +52,37 @@ Objective: Move in with Julia and progess on my career path.
 # Side Quest - TMRW
 
 Objective: To earn money by running a successful algorithmic investment fund.
+
+Learned Axioms.
+1. Markets are fractal, but with unknown and shifting dimensionality
+2. Markets have different states, but they are continuous, rather than discreet.
+3. 
+
 1. Successful Algorithm.
-   - [x] Backtest engine.
-   - [x] Algorithm version 1.
-      - [ ] Markov model Research.
-      - [ ] Hidden Markov model Research.
-      - [ ] Mean reversion Research.
-   - [ ] Research.
-   - [ ] Algorithm version 2.
-      - [ ] Convergence theorem research.
+   - [x] Backtest Engine.
+   - [x] Algorithm Phase 1. - A simplistic test of the possibility of algorithmic trading.
+   - [ ] Research Phase 1
+      - [ ] Markov Model Research
+         - [ ] Run conditional probabilities on different states of previous days returns
+      - [ ] Hidden Markov State Research
+         - [ ] Run the hidden markov model on different 
+      - [ ] Mean Reversion Research
+      - [ ] Convergence Theorem Research
+      - [ ] Linear Regression Research
+      - [ ] Standard deviation Research
+   - [ ] Algorithm Phase 2.
+      - [ ] Idea generation for Algorithm V2
+      - [ ] Test of implementation for various time horizons
+      - [ ] Implementation test
+   - [ ] Research Phase 2.
+      - [ ] Mean field Research
+      - [ ] Mean Reversion Research
+      - [ ] linear regression Research
+   - [ ] Backtest Engine Upgrade
+   - [ ] Algortihm Phase 3.
+      - [ ] Idea generation for Algorithm V3
+      - [ ] Test of implementation for various time horizons
+      - [ ] Implementation test
 2. Clients/Customers.
    - [ ] Build list potential customer for initial offering.
    - [ ] Perform initial private offering. 
