@@ -4,8 +4,8 @@ Let each X(t)_i be determined by an undeterminable process, with certain repeati
 A group of X(t)_i's with similar repeating patterns is called a society.\\
 
 A society gains more value, the more members there is in the group. Even if the value function has a deminishing returns property.\\
-ESFJ, ISFJ, ISTJ, ... Are all the "front line ants", INTJ, INFJ, ... Are all the "back line ants". \\
-Societies are competitive. There's competition within a society, for positions.
+ESFJ, ISFJ, ISTJ, ... Are all the "front line ants", INTJ, INFJ, ... Are all the "back line ants". //
+Societies are competitive. There's competition within a society, for positions. //
 Women go by beauty, sociability then skill. Men go by skill, sociability then beauty.
 
 
