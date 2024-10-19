@@ -1,9 +1,12 @@
 Axioms
-1. f is one to one. f believes it is all-covering. Entydighed
-2. Some parents don't want their children to succeed.
-3. I'm a pushover?
-4. I don't have my shit together.
-5. Don't focus on important thing
+Let X(t)_i be a stochastic process representing individual i of n individuals.\\
+Let each X(t)_i be determined by an undeterminable process, with certain repeating patterns being recognizable and determinable.\\
+A group of X(t)_i's with similar repeating patterns is called a society.\\
+
+A society gains more value, the more members there is in the group. Even if the value function has a deminishing returns property.\\
+ESFJ, ISFJ, ISTJ, ... Are all the "front line ants", INTJ, INFJ, ... Are all the "back line ants". \\
+Societies are competitive. There's competition within a society, for positions.
+Women go by beauty, sociability then skill. Men go by skill, sociability then beauty.
 
 
 
