@@ -1,5 +1,5 @@
 Axioms
-Let X(t)_i be a stochastic process representing individual i of n individuals.\\
+Let X(t)_i be a stochastic process representing individual i of n individuals.<br>
 Let each X(t)_i be determined by an undeterminable process, with certain repeating patterns being recognizable and determinable.\\
 A group of X(t)_i's with similar repeating patterns is called a society.\\
 
