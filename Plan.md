@@ -9,9 +9,7 @@ Societies are competitive. There's competition within a society, for positions. 
 Women go by beauty, sociability then skill. Men go by skill, sociability then beauty.
 
 The goal of each X(t)_i is to conserve as much energy as possible, the goal for each society is to conserve as much energy as possible within the society. <br>
-If one of the X(t)_i's within the society has a conservation goal, that goes against the general society conservation goal. The society will try to <br>
-change this.
-
+If one of the X(t)_i's within the society has a conservation goal, that goes against the general society conservation goal. The society will try to change this.
 
 # Main Quest
 Objective: Move in with Julia and progess on my career path.
