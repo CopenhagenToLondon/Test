@@ -1,3 +1,12 @@
+Axioms
+1. f is one to one. f believes it is all-covering. Entydighed
+2. Some parents don't want their children to succeed.
+3. I'm a pushover?
+4. I don't have my shit together.
+5. Don't focus on important thing
+
+
+
 # Main Quest
 Objective: Move in with Julia and progess on my career path.
 
