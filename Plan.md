@@ -2,13 +2,14 @@
 Objective: Move in with Julia and progess on my career path.
 
 1. UK Visa
-   - [x] Payments 6000£.
+   - [x] Payments 6000€.
    - [x] Biometrics and documentation.
-   - [ ] Decision on failed documentation received.
+   - [x] Decision on failed documentation received.
+   - [ ] LanguageCert General SELT retake - 230€
    - [ ] Proper documentation sent.
    - [ ] Visa Approved achieved.
 2. Job & Savings
-   - [ ] Full time employment.
+   - [x] Full time employment. - cleaning of trainstations
    - [ ] Career relevant full time employment.  
    - [ ] Savings of 40.000dkk/5.000£.
       - [ ] Test
