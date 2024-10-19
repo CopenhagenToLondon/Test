@@ -22,12 +22,18 @@ Objective: Move in with Julia and progess on my career path.
    - [ ] Proper documentation sent.
    - [ ] Visa Approved achieved.
 2. Job & Savings
-   - [x] Full time employment. - cleaning of trainstations
-   - [ ] Career relevant full time employment.  
+   - [x] Full time employment. - cleaning of train stations
+   - [ ] Career relevant full time employment.
+         - [ ] Data analyst, data engineer, software developer, etc.
    - [ ] Savings of 40.000dkk/5.000£.
-      - [ ] Test
+      - [ ] x out of 40.000dkk invested into saxo for safekeeping
 3. Move to London
    - [ ] Choose what to bring.
+      - [ ] Laptop, computer, electronic devices?
+      - [ ] Clothes?
+      - [ ] Furniture?
+      - [ ] books?
+      - [ ] coin collection?
    - [ ] pack, ship and storage.
    - [ ] Flights
 4. Job & Savings
