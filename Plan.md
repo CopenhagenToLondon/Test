@@ -38,7 +38,11 @@ Objective: Move in with Julia and progess on my career path.
       - [ ] x out of 40.000dkk invested into saxo for safekeeping
    - [ ] Sell books
    - [ ] Donations for projects?
-      - [ ] Patreon, Indiegogo, Crowdfundme... 
+      - [ ] Patreon - https://www.patreon.com/
+      - [ ] Indiegogo - https://www.indiegogo.com/
+      - [ ] Gofundme - https://www.gofundme.com/
+      - [ ] Kickstarter - https://www.kickstarter.com/
+      - [ ] Coop crowdfunding - https://crowdfunding.coop.dk/
    - [ ] Python courses
       - [ ] fliers
       - [ ] Schools
