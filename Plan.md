@@ -18,7 +18,10 @@ Objective: Move in with Julia and progess on my career path.
    - [x] Payments 6000€.
    - [x] Biometrics and documentation.
    - [x] Decision on failed documentation received.
-   - [ ] LanguageCert General SELT retake - 230€
+   - [ ] SELT/IELTS retake - 230€
+      - [ ] LanguageCert SELT?
+      - [ ] IELTS british council - https://ieltsregistration.britishcouncil.org/
+      - [ ] GESE A1 Trinity college London - https://seltbooking.trinitycollege.co.uk/OEWeb/loadExamDtl.do
    - [ ] Proper documentation sent.
    - [ ] Visa Approved achieved.
 2. Job & Savings
