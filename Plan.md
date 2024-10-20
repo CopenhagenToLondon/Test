@@ -63,6 +63,7 @@ Objective: Move in with Julia and progess on my career path.
 | Path UK | Path DK |
 | ------------- | ------------- |
 | **Job & Career UK** | **Education DK** |
+| We have 4 months of trying to find a job and career | If we don't find a job and career within 4 months we move back and do an education |
 | [ ] Find a job in London. <br> [ ] Find a career in London.<br> [ ] Save for a downpayment on an apartment/House. 25.000£ | DTU - matematik&teknologi - next year? <br> KU - computer science - next year?|
 | **Apartment & Career** | **Project & Job DK** |
 | [ ] Find an apartment/House in London area. With deposit of 25.000£. | [ ] Project phases 1 <br> [ ] Project phase 2 <br> [ ] Find job in CPH within your field.  |
