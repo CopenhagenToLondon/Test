@@ -175,6 +175,11 @@ Objective: Summarize math levels from 1. grade to university level. In such a wa
 
 # Side Quest - Jarra :heart:
 
+1. Physique
+2. Makeup
+3. Hair
+4. Face
+5. HRT
 
 
 <br/>
