@@ -27,9 +27,29 @@ Objective: Move in with Julia and progess on my career path.
       - [ ] Data analyst, data engineer, software developer, etc.
          - [ ] Career relevant CV, courses, projects, website etc. 
       - [ ] Apply UK jobs
+         - [ ] Update CV
+         - [ ] Find relevant job openings
+         - [ ] Tailor CVs for each opening
       - [ ] apply DK jobs
+         - [ ] Update CV
+         - [ ] Find relevant job openings
+         - [ ] Tailor CVs for each opening
    - [ ] Savings of 40.000dkk/5.000£.
       - [ ] x out of 40.000dkk invested into saxo for safekeeping
+   - [ ] Sell books
+   - [ ] Donations for projects?
+      - [ ] Patreon, Indiegogo, Crowdfundme... 
+   - [ ] Python courses
+      - [ ] fliers
+      - [ ] Schools
+      - [ ] Online courses 
+   - [ ] Mathematics guide
+      - [ ] Fliers
+      - [ ] Schools
+      - [ ] Instagram, SoMe ...
+   - [ ] Sell Python code
+      - [ ] consulting
+      - [ ] task-oriented
 3. Move to London
    - [ ] Choose what to bring.
       - [ ] Laptop, computer, electronic devices?
