@@ -62,8 +62,7 @@ Objective: Move in with Julia and progess on my career path.
   
 | Job & Savings UK  | Education |
 | ------------- | ------------- |
-| Job & Savings\    - [ ] Find a job in London. \  - [ ] Find a career in London.\    - [ ] Save for a downpayment on an apartment/House. 25.000£ | DTU - matematik&teknologi - next year?
-KU - computer science - next year?|
+| Job & Savings\    - [ ] Find a job in London. \  - [ ] Find a career in London.\    - [ ] Save for a downpayment on an apartment/House. 25.000£ | DTU - matematik&teknologi - next year? KU - computer science - next year?|
 | **Apartment & Career** | **Project & Job DK** |
 | Find an apartment/House in London area. With deposit of 25.000£. | Content Cell  |
 | **TBC - to be continued**  | **TBC - to be continued** |
