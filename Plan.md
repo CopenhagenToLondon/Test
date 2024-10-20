@@ -60,13 +60,11 @@ Objective: Move in with Julia and progess on my career path.
    - [ ] pack, ship and storage.
    - [ ] Flights
   
-| First Header  | Second Header |
+| Job & Savings UK  | Education |
 | ------------- | ------------- |
-| 4. Job & Savings\    - [ ] Find a job in London. \  - [ ] Find a career in London.\    - [ ] Save for a downpayment on an apartment/House. 25.000£ | Content Cell  |
-| First Header  | Second Header |
-| ------------- | ------------- |
-| 5. Apartment | Content Cell  |
-|   - [ ] Find an apartment/House in London area. With deposit of 25.000£. | Content Cell  |
+| Job & Savings\    - [ ] Find a job in London. \  - [ ] Find a career in London.\    - [ ] Save for a downpayment on an apartment/House. 25.000£ | Content Cell  |
+| Apartment & Career | Project & Job DK |
+| Find an apartment/House in London area. With deposit of 25.000£. | Content Cell  |
 | First Header  | Second Header |
 | ------------- | ------------- |
 | 6. TBC - to be continued | Content Cell  |
